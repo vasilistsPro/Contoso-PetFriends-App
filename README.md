@@ -5,9 +5,7 @@ Welcome to the Contoso PetFriends app - an application to help find new homes fo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [How to Use](#how-to-use)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
